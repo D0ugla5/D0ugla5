@@ -42,7 +42,7 @@
 
 ![logo](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 
-![logo](https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svghttps://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fpt%2Fa%2Fac%2FCRVascodaGama.png&tbnid=lwa8ZqRw521pfM&vet=12ahUKEwji_Kub-vGEAxUpNbkGHQILCd0QMygAegQIARBp..i&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FClub_de_Regatas_Vasco_da_Gama&docid=bJt4mT7aW_VwLM&w=351&h=444&q=vasco&safe=active&ved=2ahUKEwji_Kub-vGEAxUpNbkGHQILCd0QMygAegQIARBp)
 
 ![logo](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ##  Imagem de destaque:
