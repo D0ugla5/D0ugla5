@@ -42,7 +42,6 @@
 
 ![logo](https://upload.wikimedia.org/wikipedia/pt/thumb/a/ac/CRVascodaGama.png/120px-CRVascodaGama.png)
 
-![logo](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ##  Imagem de destaque:
 ![Logo](https://investidorsardinha.r7.com/wp-content/uploads/2021/02/ipo-intelbras-historia-da-empresa-atuacao-e-abertura-de-capital-1024x580.png.webp)
 
