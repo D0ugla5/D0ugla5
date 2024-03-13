@@ -1,5 +1,4 @@
 
-
 # D-o-u-g-l-a-s
 
 
@@ -37,12 +36,15 @@
 
 
 ## 🛠 Habilidades
-   - Python
-   - Design
-   - Arte
+![logo](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 
+![logo](https://www.vectorlogo.zone/logos/canva/canva-icon.svg)
+
+![logo](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+
+![logo](https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svghttps://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+
+![logo](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ##  Imagem de destaque:
 ![Logo](https://investidorsardinha.r7.com/wp-content/uploads/2021/02/ipo-intelbras-historia-da-empresa-atuacao-e-abertura-de-capital-1024x580.png.webp)
-
-
 
