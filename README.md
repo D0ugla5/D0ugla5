@@ -32,7 +32,6 @@
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/D0ugla5)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/douglasaureliodjs?trk=public_profile_browsemap)
-[![instagram]([https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://br.linkedin.com/in/douglasaureliodjs?trk=public_profile_browsemap)
 
 
 
