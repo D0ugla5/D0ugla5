@@ -40,7 +40,7 @@
 
 ![logo](https://www.vectorlogo.zone/logos/canva/canva-icon.svg)
 
-[![logo](https://upload.wikimedia.org/wikipedia/pt/thumb/a/ac/CRVascodaGama.png/120px-CRVascodaGama.png)](https://vasco.com.br/)]
+[![logo](https://upload.wikimedia.org/wikipedia/pt/thumb/a/ac/CRVascodaGama.png/120px-CRVascodaGama.png)](https://vasco.com.br/)
 
 ##  Imagem de destaque:
 [![Logo](https://investidorsardinha.r7.com/wp-content/uploads/2021/02/ipo-intelbras-historia-da-empresa-atuacao-e-abertura-de-capital-1024x580.png.webp)](https://vasco.com.br/)
