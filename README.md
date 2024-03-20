@@ -4,11 +4,10 @@
 
 
 ## 🚀 Olá Sou o Douglas e foguete tem ré!
-   - Yo soy Douglas
-   - Hablo español
-   - I speak English
-   - E eu sou Brasileiro
-   - Libras
+      - Yo soy Douglas
+      - Hablo español
+      - I speak English
+      - E eu sou Brasileiro e sei Libras.
 
 
 
