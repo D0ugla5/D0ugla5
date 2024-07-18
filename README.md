@@ -15,9 +15,9 @@
 ## O que eu sou? 
     👩‍💻 Trabalho atualmente na Intelbras
 
-    🧠 Estou aprendendo programação Back-end e a treinar direiro.
+    🧠 Estou aprendendo programação Back-end e a treinar direito.
 
-    🤔 Programação ou educação física?
+    🤔 Programação;
 
     💬 Me pergunte sobre tudo eu posso não saber responder mas sei onde procurar.
 
